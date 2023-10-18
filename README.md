@@ -10,8 +10,18 @@ This is a guinea pig application to showcase how to do ["Automated Testing of El
 
 Do follow allong during the session:
 
-1. clone the git repo — `git clone https://github.com/christian-bromann/osff-demo.git`
+1. clone the git repo
 
-2. Install dependencies via `npm install`
+2. Install dependencies, via:
 
-3. Pay attention!
+```sh
+npm install
+```
+
+3. Manually test the application first:
+
+```sh
+npm start
+```
+
+4. Pay attention!
