@@ -10,6 +10,7 @@ const icon = path.join(__dirname, 'src', 'assets', 'icon', 'osff')
 const config: ForgeConfig = {
   packagerConfig: {
     asar: true,
+    name: 'osff',
     prune: process.env.NODE_ENV !== 'test',
     icon
   },
