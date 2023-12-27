@@ -4,8 +4,9 @@
 
 # Bolilerplate Electron Application with Test Automation
 
-This is a sample application to showcase how to do ["Automated Testing of Electron Applications using WebdriverIO"](https://sched.co/1Q1Fa).
-It is a clone of the repo which Christian Bromann used in this talk: https://www.youtube.com/watch?v=Z0AjtxuPVZs
+a sample application to showcase how to do ["Automated Testing of Electron Applications using WebdriverIO"](https://sched.co/1Q1Fa).
+It is a clone of the repo which Christian Bromann used in this talk: https://www.youtube.com/watch?v=Z0AjtxuPVZs. 
+I have just ported it to run on a windows box. 
 
 ## Quick Start
 
